@@ -1,5 +1,5 @@
 # Alfred.ImageX
-A simple workflow to resize selected images
+A simple workflow to resize selected images through python PIL.
 ![demo](./snap.png)
 
 ======================
